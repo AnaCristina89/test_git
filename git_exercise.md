@@ -16,10 +16,13 @@ A suit les indications de l'erreur et un conflit devrait être apparu !
 Résoudre un conflit
 Quand un même ficher est modifié par deux personnes différents, git ne sait pas (sauf dans certains cas) quels modifications garder.
 
-A ouvre le fichier ayant le conflit. Discuter à deux quelle modification garder
 
-A modifie le fichier en conséquence
 
-A add le fichier modifié au staging, le commit
+MODIFICATION LAURENT 
+
+J AI TOUT CASSEEEEEEEEEEEEE 
+
+
+
 
 A peut désormais pusher

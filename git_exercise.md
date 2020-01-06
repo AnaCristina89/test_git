@@ -18,8 +18,6 @@ Quand un même ficher est modifié par deux personnes différents, git ne sait p
 
 A ouvre le fichier ayant le conflit. Discuter à deux quelle modification garder
 
-A modifie le fichier en conséquence
+### Test 2
+ nano tab tab para mostrar los archivos 
 
-A add le fichier modifié au staging, le commit
-
-A peut désormais pusher
